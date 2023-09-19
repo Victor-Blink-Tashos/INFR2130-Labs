@@ -2,6 +2,8 @@
 ○ I.e. Joe Smith
 ● NOTES ON SUBMISSION:
 
+Gem moves left to right, up and down, and 360 revolution.
+
 ● ATTESTATION:
 I, Victor Tashos, understand that I am bound by Ontario Tech’s Academic Integrity Policy
 (https://usgc.ontariotechu.ca/policy/policy-library/policies/academic/academic-integrity-policy.php) which
